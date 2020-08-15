@@ -8,14 +8,14 @@ Name: Size
 .size-apart{width: 100% !important; height: 50% !important;}
 .size-square{width: 50% !important; height: 50% !important;}
 
-.size-text-18{font-size: 18px !important;}
-.size-text-20{font-size: 20px !important;}
-.size-text-24{font-size: 24px !important;}
-.size-text-28{font-size: 28px !important;}
-.size-text-32{font-size: 32px !important;}
-.size-text-35{font-size: 35px !important;}
-.size-text-40{font-size: 40px !important;}
-.size-text-48{font-size: 48px !important;}
-.size-text-52{font-size: 52px !important;}
-.size-text-60{font-size: 60px !important;}
-.size-text-64{font-size: 64px !important;}
+.size-text-18{font-size: 1.125rem !important;}
+.size-text-20{font-size: 1.25rem !important;}
+.size-text-24{font-size: 1.5rem !important;}
+.size-text-28{font-size: 1.75rem !important;}
+.size-text-32{font-size: 2rem !important;}
+.size-text-35{font-size: 2.1875rem !important;}
+.size-text-40{font-size: 2.5rem !important;}
+.size-text-48{font-size: 3rem !important;}
+.size-text-52{font-size: 3.25rem !important;}
+.size-text-60{font-size: 3.75rem !important;}
+.size-text-64{font-size: 4rem !important;}
