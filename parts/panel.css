@@ -78,7 +78,8 @@ Name: Panel
   white-space: nowrap;
 }
 .button:hover {
-  color:#e9e9e9!important;
-  border: 1px solid transparent!important;
-  background-color:#4E4E4E!important;
+  color:#e9e9e9 !important;
+  opacity: 0.8;
+  border: 1px solid transparent !important;
+  background-color:#4E4E4E;
 }
