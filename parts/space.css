@@ -2,7 +2,7 @@
 Name: Space
 -- Author: Thang Vuong
 -- Date: 15/08/2020
--- Modified: Thang Vuong - 15/08/2020
+-- Modified: Thang Vuong - 23/08/2020
 ******/
 .pad-1 {
   padding: 1px;
@@ -905,6 +905,82 @@ Name: Space
 .mar-tb--25 {
   margin: -25px 0;
 }
+
+.mar-tb-1 {
+  margin: 1px 0;
+}
+.mar-tb-2 {
+  margin: 2px 0;
+}
+.mar-tb-3 {
+  margin: 3px 0;
+}
+.mar-tb-4 {
+  margin: 4px 0;
+}
+.mar-tb-5 {
+  margin: 5px 0;
+}
+.mar-tb-6 {
+  margin: 6px 0;
+}
+.mar-tb-7 {
+  margin: 7px 0;
+}
+.mar-tb-8 {
+  margin: 8px 0;
+}
+.mar-tb-9 {
+  margin: 9px 0;
+}
+.mar-tb-10 {
+  margin: 10px 0;
+}
+.mar-tb-11 {
+  margin: 11px 0;
+}
+.mar-tb-12 {
+  margin: 12px 0;
+}
+.mar-tb-13 {
+  margin: 13px 0;
+}
+.mar-tb-14 {
+  margin: 14px 0;
+}
+.mar-tb-15 {
+  margin: 15px 0;
+}
+.mar-tb-16 {
+  margin: 16px 0;
+}
+.mar-tb-17 {
+  margin: 17px 0;
+}
+.mar-tb-18 {
+  margin: 18px 0;
+}
+.mar-tb-19 {
+  margin: 19px 0;
+}
+.mar-tb-20 {
+  margin: 20px 0;
+}
+.mar-tb-21 {
+  margin: 21px 0;
+}
+.mar-tb-22 {
+  margin: 22px 0;
+}
+.mar-tb-23 {
+  margin: 23px 0;
+}
+.mar-tb-24 {
+  margin: 24px 0;
+}
+.mar-tb-25 {
+  margin: 25px 0;
+}
 .mar-t--1 {
   margin-top: -1px;
 }
@@ -1076,9 +1152,4 @@ Name: Space
   padding-top: 64px;
   padding-bottom: 64px;
 }
-.space-left {
-  float: left;
-}
-.space-right {
-  float: right;
-}
+

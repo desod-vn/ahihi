@@ -10,13 +10,22 @@ html, body {
   border: none;
   padding: 0;
   margin: 0;
+  font-family: 'Calibri', sans-serif;
   color: #4E4E4E;
 }
 img{
   max-width:100%;
   height:auto;
   overflow: none;
-} 
+}
+div > a:active,  div > a:visited, div > a {
+  text-decoration: none;
+  color: #0000ff;
+  font-weight: 550;
+}
+div > a:hover {
+  color: #000044;
+}
 /*--------------*
 STANDARD VIEW
 *--------------*/
@@ -27,6 +36,7 @@ STANDARD VIEW
 .center-wrap {
   margin: auto;
   grid-column: span 12;
+  min-width: 50%;
 }
 .wrap {
   grid-column: 1/13;
