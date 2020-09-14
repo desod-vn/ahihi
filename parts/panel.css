@@ -5,8 +5,6 @@ Name: Panel
 -- Modified: Thang Vuong - 15/08/2020
 ******/
 .panel {
-  padding: 0.01rem 1rem ;
-  margin: 1rem 0 ;
   position: relative;
 }
 .panel-circle {

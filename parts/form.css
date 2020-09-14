@@ -17,7 +17,7 @@ form > label {
 	user-select: none;
 	cursor: pointer;
 }
-form > input {
+form > input{
 	width: 80%;
 	display: inline-block;
   	padding: 10px 10px;
